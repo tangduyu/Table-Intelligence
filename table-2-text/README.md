@@ -12,4 +12,3 @@ If you use this dataset, plese cite
 Our dataset contains training/dev/test files. The format of each file is as follows.
 
 Number of columns + “\t” + column names + “\t” + cell values + “\t” + descriptive sentence
-"_||_" is used to split different column names/cell values.
